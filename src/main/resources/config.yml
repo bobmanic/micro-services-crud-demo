@@ -1,0 +1,7 @@
+# Database configuration
+mySQLConfiguration:
+  url: localhost
+  port: 3306
+  database: students
+  username: root
+  password: root
